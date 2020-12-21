@@ -1,0 +1,4 @@
+/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/edit_cache.dir
+/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/rebuild_cache.dir
+/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/initCMake.dir
+/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/initCMake_autogen.dir

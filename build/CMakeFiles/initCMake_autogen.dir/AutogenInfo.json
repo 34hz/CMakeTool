@@ -1,0 +1,81 @@
+{
+	"BUILD_DIR" : "/home/panda/AWorkSpace/Qt/initCMake/build/initCMake_autogen",
+	"CMAKE_BINARY_DIR" : "/home/panda/AWorkSpace/Qt/initCMake/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/panda/AWorkSpace/Qt/initCMake/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/panda/AWorkSpace/Qt/initCMake",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/panda/AWorkSpace/Qt/initCMake",
+	"HEADERS" : 
+	[
+		[
+			"/home/panda/AWorkSpace/Qt/initCMake/initcmake.h",
+			"MU",
+			"EWIEGA46WW/moc_initcmake.cpp"
+		],
+		[
+			"/home/panda/AWorkSpace/Qt/initCMake/projectinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_projectinfo.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/panda/AWorkSpace/Qt/initCMake/build/initCMake_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/panda/AWorkSpace/Qt/initCMake/build/initCMake_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/panda/AWorkSpace/Qt/initCMake/build",
+		"/home/panda/AWorkSpace/Qt/initCMake",
+		"/home/panda/.App/qt/5.14.2/gcc_64/include",
+		"/home/panda/.App/qt/5.14.2/gcc_64/include/QtWidgets",
+		"/home/panda/.App/qt/5.14.2/gcc_64/include/QtGui",
+		"/home/panda/.App/qt/5.14.2/gcc_64/include/QtCore",
+		"/home/panda/.App/qt/5.14.2/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/panda/AWorkSpace/Qt/initCMake/build/initCMake_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/initCMake_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/panda/.App/qt/5.14.2/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/home/panda/.App/qt/5.14.2/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/panda/AWorkSpace/Qt/initCMake/build/CMakeFiles/initCMake_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/panda/AWorkSpace/Qt/initCMake/initcmake.cpp", "MU" ],
+		[ "/home/panda/AWorkSpace/Qt/initCMake/main.cpp", "MU" ],
+		[ "/home/panda/AWorkSpace/Qt/initCMake/projectinfo.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
